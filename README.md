@@ -1,0 +1,3 @@
+home
+marks
+score
